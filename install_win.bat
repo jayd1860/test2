@@ -8,6 +8,7 @@ mkdir obj\Win
 copy /Y makefile.win makefile
 copy /Y src\makefile.win src\makefile
 
+CRAPPADOODLE #4
 
 set CC=bcc32
 REM set CFLAGS_DEBUG=-v -c -DDEBUG -DSINGLE_PREC
