@@ -1,9 +1,6 @@
 
 
-default::
-        cd src
-        make opt
-opt::
+CRAPPADOODLE #3
         cd src
         make opt
 debug::
