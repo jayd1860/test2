@@ -4,25 +4,7 @@
 *                                                                               *
 * Copyright (C) 2002-2008,  David Boas    (dboas <at> nmr.mgh.harvard.edu)      *
 *               2008        Jay Dubb      (jdubb <at> nmr.mgh.harvard.edu)      *
-*               2008        Qianqian Fang (fangq <at> nmr.mgh.harvard.edu)      *
-*                                                                               *
-* License:  4-clause BSD License, see LICENSE for details                       *
-*                                                                               *
-* Example:                                                                      *
-*         tMCimg input.inp                                                      *
-*                                                                               *
-* Please find more details in README and doc/HELP                               *
-********************************************************************************/
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <string.h>
-#include <time.h>
-
-#define pi 3.1415926535897932f
-#define C_VACUUM 2.9979e11f
-#define TRUE 1
+*               2008        Qianqian Fang (fangq <
 #define FALSE 0
 #define MIN(a,b) ((a)<(b)?(a):(b))
 #define FP_DIV_ERR  1e-8f
