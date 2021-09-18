@@ -4,3 +4,4 @@ move .\Debug\tMCimg.exe ..\bin\Win
 del /q .\Debug\*
 rmdir .\Debug
 
+Bla Bla Bla 2
